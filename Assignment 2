@@ -1,0 +1,18 @@
+Linkedin Upload url : https://www.linkedin.com/posts/ummedua-aslam-a284492b7_ai-promptengineering-chainofthought-activity-7391951188390346752-Jo-9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwP5oABnLFYlLGZ8gFDhsfbpYjF12B0UfA
+
+Github Upload assignment 
+
+CLASS 2 ASSIGNMENT Saturday 2 to 5 
+ Chain of Thought (CoT) Prompting
+In this technique, the AI is asked to show its thinking process step by step.
+ That means the AI doesn’t just give an answer — it also explains its reasoningLet’s solve this step by step This tells the AI to write out its reasoning process clearly.
+Tree of Thoughts (ToT) Prompting
+In this method, the AI doesn’t think in one straight line — it tries multiple options (branches).
+ Each branch represents a different possible answer, and the AI chooses the best one after comparing them.
+ This approach works best for creative thinking or complex decision-making.
+.
+⚖️ Key Differences Between CoT and ToT
+FeatureChain of Thought (CoT)Tree of Thoughts (ToT)Thinking StyleStep-by-step reasoningBranch-based reasoningOutput TypeOne single reasoning pathMultiple reasoning pathsUse CaseLogical or math-based tasksCreative or complex tasksExampleSolving a math problemWriting a story or making a plan
+💼 Real-World Examples
+CoT Prompting: AI solving a math equation step by step.
+ToT Prompting: AI generating several marketing strategies and choosing the best one.

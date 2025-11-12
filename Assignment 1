@@ -1,0 +1,33 @@
+Linkedin upload 
+url : https://www.linkedin.com/posts/ummedua-aslam-a284492b7_promptengeneering-contextengeneering-shortprompting-activity-7391943862396788736-leYt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwP5oABnLFYlLGZ8gFDhsfbpYjF12B0UfA
+
+Assignment github upload 
+
+Saturday 2 to 5 CLASS 1 ASSIGNMENT
+
+🔹 Prompt Engineering vs Context Engineering
+Prompt Engineering: Creating clear and effective prompts to get the best AI response.
+ Context Engineering: Giving background or extra info so AI fully understands the situation.
+ Difference: Prompt focuses on question quality, context focuses on information clarity.
+🔹 How They Work Together
+Prompt tells what to do, and context tells why and how.
+ Together, they make AI replies more accurate, relevant, and human-like.
+ Good prompt + good context = best AI performance.
+🔹 Temperature & Top-p
+Temperature: Controls creativity (low = focused, high = creative).
+ Top-p: Chooses words based on probability for balanced responses.
+🔹 Zero-Shot Prompting (1 line)
+AI answers without any example — depends only on the question.
+🔹 One-Shot Prompting
+AI gets one example before answering — helps guide its tone or format.
+🔹 Few-Shot Prompting
+AI learns from a few examples to understand the pattern and give better results.
+🔹 System Prompting
+It sets AI’s role or behavior (e.g., “You are a teacher” or “You are a doctor”).
+ Defines style, tone, and focus of all replies.
+🔹 Role Prompting
+Tells AI what identity to take — makes replies more realistic and context-aware.
+🔹 Contextual Prompting
+Adds relevant background or user info so AI gives personalized and accurate answers.
+
+
